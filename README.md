@@ -2,7 +2,7 @@
 
 This repository shows an example of how to define your own model and parameter set to use in PyBaMM simulations. This kind of repository may be useful for sharing results from a particular paper, or hosting standalone PyBaMM models. The file `model.py` defines the DFN in a single script (this is equivalent to `pybamm.lithium_ion.BasicDFN`). The file `parameters.py` defines a set of parameter values for an LG M50 cell taken from the paper 
 
-    > Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W. Dhammika Widanage, and Emma Kendrick. ["Development of Experimental Techniques for Parameterization of Multi-scale Lithium-ion Battery Models."](https://iopscience.iop.org/article/10.1149/1945-7111/ab9050) Journal of the Electrochemical Society 167 (2020): 080534
+> Chang-Hui Chen, Ferran Brosa Planella, Kieran O’Regan, Dominika Gastol, W. Dhammika Widanage, and Emma Kendrick. ["Development of Experimental Techniques for Parameterization of Multi-scale Lithium-ion Battery Models."](https://iopscience.iop.org/article/10.1149/1945-7111/ab9050) Journal of the Electrochemical Society 167 (2020): 080534
 
     
 
